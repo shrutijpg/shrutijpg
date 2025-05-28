@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x200?text=Hey+Everyone!+👋" alt="Hey Everyone Banner" width="100%">
+  <img src="assets/Add a heading.png" alt="Hey Everyone Banner" width="100%">
   <br>
   Let's Connect and have a Chat! 💬
   <br><br>
