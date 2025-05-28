@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <br><br>
+  
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=shrutijpg.shrutijpg)
 </div>
 
 # Hi there 👋, I'm Shruti Bhandarkar!
@@ -24,41 +26,41 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 
 ---
 
-### What I Do
+### 🛠️ What I Do
 
 * 💻 Programming: I enjoy writing clean, efficient, and well-documented code.
-* 🧠 Data Structures & Algorithms (DSA): I regularly practice and solve DSA problems to strengthen my foundational computer science skills.
+* �‍ Data Structures & Algorithms (DSA): I regularly practice and solve DSA problems to strengthen my foundational computer science skills.
 * 📊 Data Science: Exploring data to uncover insights, build predictive models, and drive informed decisions.
 * 🤖 Machine Learning & Deep Learning: Enthusiastic about developing and implementing intelligent algorithms to solve real-world challenges.
 * 👁️ Computer Vision: Fascinated by the ability of machines to "see" and interpret visual information.
 
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shrutijpg&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### My GitHub History!
+### 📊 My GitHub Stats
 
 <div align="center">
   <a href="https://github.com/shrutijpg">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Shruti's GitHub Stats" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" alt="Shruti's GitHub Stats" />
   </a>
   <a href="https://github.com/shrutijpg">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijpg&layout=compact&theme=midnight-purple&hide_border=true" alt="Shruti's Top Languages" />
   </a>
-  <br> <a href="https://github.com/shrutijpg">
+  <br>
+  <a href="https://github.com/shrutijpg">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutijpg&theme=midnight-purple&hide_border=true" alt="Shruti's GitHub Streak" />
   </a>
-  <br> <img src="https://github.com/shrutijpg/shrutijpg/raw/main/dist/github-contribution-grid-snake.svg" alt="Shruti's GitHub Contribution Snake" />
+  <br>
+  ![Snake animation](https://github.com/shrutijpg/shrutijpg/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-<br>
-
-
-
-
 
 ---
 
-### Some Tools I Have Used and Learned
+### 🔧 Some Tools I Have Used and Learned
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,git,github,vscode,jupyter,kaggle,colab" />
@@ -66,9 +68,13 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 </div>
 
 ---
+### 🌟 Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=your-repo-name-1&theme=midnight-purple)](https://github.com/shrutijpg/Student_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=your-repo-name-2&theme=midnight-purple)](https://github.com/shrutijpg/DSA)
+---
 
-### What You'll Find Here
+### 📂 What You'll Find Here
 
 This GitHub profile is a reflection of my learning journey and projects. Here you'll find:
 
