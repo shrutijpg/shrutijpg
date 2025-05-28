@@ -4,16 +4,22 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# Add this permissions block
+permissions:
+  contents: write  # This enables push access
+
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # Important for push access
       
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: shrutijpg
+          github_user_name: shrutijpg  # Double check this spelling
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -24,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          git add output/
           git commit -m "Update snake animation" || echo "No changes to commit"
           git push
