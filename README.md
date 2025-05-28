@@ -5,10 +5,10 @@
   <br><br>
   <a href="https://www.linkedin.com/in/shruti-b-51a3a9263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
+  </a>
   <a href="mailto:shrutibh1001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>&nbsp;
+  </a>
   <br><br>
 </div>
 
@@ -46,10 +46,16 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 ### My GitHub History!
 
 <div align="center">
-[![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/shrutijpg)
+  <a href="https://github.com/shrutijpg">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/shrutijpg">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijpg&layout=compact&theme=midnight-purple" />
+  </a>
 </div>
 
-<br>
+
+
 
 ---
 ### What You'll Find Here
