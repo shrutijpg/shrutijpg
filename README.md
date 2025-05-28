@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Add a heading.png" alt="Hey Everyone Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/shrutijpg/shrutijpg/main/assets/Add%20a%20heading.png" alt="Hey Everyone Banner" width="100%">
   <br>
   Let's Connect and have a Chat! 💬
   <br><br>
@@ -46,15 +46,12 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 ### My GitHub History!
 
 <div align="center">
-  [![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/shrutijpg)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijpg&layout=compact&theme=dark&hide_border=true)](https://github.com/shrutijpg)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutijpg&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/shrutijpg)
 </div>
 
 <br>
 
 ---
-
 ### What You'll Find Here
 
 This GitHub profile is a reflection of my learning journey and projects. Here you'll find:
