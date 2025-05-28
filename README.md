@@ -39,12 +39,19 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 
 <div align="center">
   <a href="https://github.com/shrutijpg">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=midnight-purple" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=shrutijpg&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="Shruti's GitHub Stats" />
   </a>
   <a href="https://github.com/shrutijpg">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijpg&layout=compact&theme=midnight-purple" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijpg&layout=compact&theme=midnight-purple&hide_border=true" alt="Shruti's Top Languages" />
   </a>
+  <br> <a href="https://github.com/shrutijpg">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutijpg&theme=midnight-purple&hide_border=true" alt="Shruti's GitHub Streak" />
+  </a>
+  <br> <img src="https://github.com/shrutijpg/shrutijpg/raw/main/dist/github-contribution-grid-snake.svg" alt="Shruti's GitHub Contribution Snake" />
 </div>
+
+<br>
+
 
 
 
