@@ -32,14 +32,6 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 * 🤖 Machine Learning & Deep Learning: Enthusiastic about developing and implementing intelligent algorithms to solve real-world challenges.
 * 👁️ Computer Vision: Fascinated by the ability of machines to "see" and interpret visual information.
 
----
-
-### Some Tools I Have Used and Learned
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,git,github,vscode,jupyter,kaggle,colab" />
-  <br><br>
-</div>
 
 ---
 
@@ -58,6 +50,17 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 
 
 ---
+
+### Some Tools I Have Used and Learned
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,git,github,vscode,jupyter,kaggle,colab" />
+  <br><br>
+</div>
+
+---
+
+
 ### What You'll Find Here
 
 This GitHub profile is a reflection of my learning journey and projects. Here you'll find:
