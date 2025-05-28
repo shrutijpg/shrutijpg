@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Shruti Bhandarkar]!
+# Hi there 👋, I'm Shruti Bhandarkar!
 
 ### About Me
 
@@ -34,7 +34,7 @@ This GitHub profile is a reflection of my learning journey and projects. Here yo
 
 I'm always open to connecting with fellow enthusiasts, collaborators, and recruiters.
 
-* **LinkedIn:** [https://www.linkedin.com/in/shruti-b-51a3a9263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-* **Email:** [shrutibh1001@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/shruti-b-51a3a9263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* **Email:** shrutibh1001@gmail.com
 
 ---
