@@ -1,0 +1,30 @@
+name: Generate Snake GIF
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # run every 24 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        id: snake-gif
+        with:
+          github_user_name: shrutijpg # Replace 'shrutijpg' with your GitHub username
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake@2x.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: main
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
