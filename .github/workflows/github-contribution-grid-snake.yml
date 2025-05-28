@@ -1,12 +1,11 @@
 name: Generate Snake Animation
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:     # Allows manual runs
 
-# Add this permissions block
 permissions:
-  contents: write  # This enables push access
+  contents: write       # Critical for pushing changes
 
 jobs:
   generate-snake:
@@ -14,21 +13,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: true  # Important for push access
-      
+          fetch-depth: 0  # Fetches all commit history (important for snk)
+          persist-credentials: true
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: shrutijpg  # Double check this spelling
+          github_user_name: shrutijpg  # Double-check spelling!
           outputs: |
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: Commit and Push
         run: |
-          git config --global user.name "github-actions"
+          git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/
           git commit -m "Update snake animation" || echo "No changes to commit"
