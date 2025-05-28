@@ -10,14 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      
+      - name: Generate Snake GIF
+        uses: Platane/snk@v2
         id: snake-gif
         with:
-          github_user_name: shrutijpg # Replace 'shrutijpg' with your GitHub username
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake@2x.gif
+          github_user_name: shrutijpg
+          svg_output: dist/github-contribution-grid-snake.svg
+          gif_output: dist/github-contribution-grid-snake.gif
+          gif_output_2x: dist/github-contribution-grid-snake@2x.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
