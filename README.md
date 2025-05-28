@@ -55,7 +55,7 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutijpg&theme=midnight-purple&hide_border=true" alt="Shruti's GitHub Streak" />
   </a>
   <br>
-  ![Snake animation](https://github.com/shrutijpg/shrutijpg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/shrutijpg/shrutijpg/main/output/github-contribution-grid-snake.svg)
 </div>
   
 
