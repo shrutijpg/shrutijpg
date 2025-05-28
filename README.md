@@ -57,6 +57,7 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
   <br>
   ![Snake animation](https://github.com/shrutijpg/shrutijpg/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
 
 ---
 
@@ -70,8 +71,8 @@ Currently, I'm focused on honing my skills for upcoming **placement opportunitie
 ---
 ### 🌟 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=your-repo-name-1&theme=midnight-purple)](https://github.com/shrutijpg/Student_app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=your-repo-name-2&theme=midnight-purple)](https://github.com/shrutijpg/DSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=Student_app&theme=midnight-purple)](https://github.com/shrutijpg/Student_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=DSA&theme=midnight-purple)](https://github.com/shrutijpg/DSA)
 ---
 
 ### 📂 What You'll Find Here
