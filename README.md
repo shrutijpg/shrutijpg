@@ -80,6 +80,8 @@ Git | VS Code | Jupyter
   <img src="https://raw.githubusercontent.com/shrutijpg/shrutijpg/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
+
+---
 ### 🌟 Featured Projects
 
 <div align="center">
