@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shrutijpg/shrutijpg/main/assets/Add%20a%20heading.png" alt="Hey Everyone Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/shrutijpg/shrutijpg/main/assets/Beige%20%26%20Brown%20Simple%20Personal%20LinkedIn%20Banner.png" alt="GitHub Banner - Shruti Bhandarkar" width="100%">
   <br>
   Let's Connect and have a Chat! 💬
   <br><br>
