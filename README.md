@@ -86,7 +86,7 @@ Git | VS Code | Jupyter
 
 <div align="center">
   <a href="https://github.com/shrutijpg/inventory-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=Student_app&theme=midnight-purple" alt="Inventory Management" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=Inventory_Management&theme=midnight-purple" alt="Inventory Management" />
   </a>
   <a href="https://github.com/shrutijpg/DSA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shrutijpg&repo=DSA&theme=midnight-purple" alt="DSA Solutions" />
